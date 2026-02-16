@@ -2,4 +2,4 @@
 
 ***all api routes are after /06_module_b/
 
-example : <serveraddress>/06_module_b/api/users***
+example : SERVERADDRESS/06_module_b/api/users***
